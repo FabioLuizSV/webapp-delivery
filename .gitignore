@@ -1,6 +1,5 @@
 .vscode/
 .idea/
-venv/
 ### Django ###
 *.log
 *.pot
